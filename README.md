@@ -60,7 +60,7 @@ predict_survival("Tomi", Pclass=1, Sex=1, Age=25.0, SibSp=0, PaCh=0, Fare=100)
 
 ```bash
 git clone https://github.com/salamatsaheed-ux/Titanic-Survival-Classification.git
-cd 
+cd Titanic-Survival-Classification
 pip install pandas numpy matplotlib scikit-learn jupyter
 jupyter notebook Titanic-classification.ipynb
 ```
